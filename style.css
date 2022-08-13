@@ -17,6 +17,12 @@ body {
   font-size: 3rem;
 }
 
+.navbar .navbar-brand strong {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  color: rgba(255,204,0,255);
+}
+
 .navbar img {
     border-radius: 50%;
 }
