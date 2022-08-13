@@ -45,3 +45,9 @@ body {
   .email {
     text-decoration: none;
   }
+
+  .jumbotron {
+    background-image: url('C:\Users\johan\evaluation_html\img\catPrint.jpg');
+    width: 100vw;
+    background-size: cover;
+  }
